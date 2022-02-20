@@ -3,3 +3,4 @@
 /install/
 /.catkin_tools/
 /logs/
+.vscode/
